@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A TSLint config for KodeFox JavaScript Style",
   "files": [
-    "tslint.js"
+    "tslint.json"
   ],
-  "main": "tslint.js",
+  "main": "tslint.json",
   "license": "ISC"
 }
